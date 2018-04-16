@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>2.jpg</file>
+        <file>1.jpg</file>
+        <file>11.gif</file>
+        <file>bluelight.jpg</file>
+        <file>4.jpg</file>
+        <file>about.bmp</file>
+        <file>CloseBtn.bmp</file>
+        <file>MinBtn.bmp</file>
+    </qresource>
+</RCC>
